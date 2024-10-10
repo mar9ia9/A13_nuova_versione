@@ -3,6 +3,7 @@
 Di seguito una descrizione riasuntiva del nostro lavoro. 
 Tutte le informazioni nel dettaglio e la descrizione della campagna di test (tramite test case table) si possono trovare nella 𝒅𝒐𝒄𝒖𝒎𝒆𝒏𝒕𝒂𝒛𝒊𝒐𝒏𝒆 completa (𝐷𝑜𝑐𝑢𝑚𝑒𝑛𝑡𝑎𝑧𝑖𝑜𝑛𝑒 𝐴13_𝑣𝑒𝑟𝑠𝑖𝑜𝑛𝑒_𝑚𝑖𝑔𝑙𝑖𝑜𝑟𝑎𝑡𝑎) da noi prodotta, presente nella ripository, con anche una descrizione generale del progetto, dei diagrammi con le parti interessate e una pratica guida all'installazione e all'utilizzo dell'applicazione.
 
+---
 
 Il nostro team (composto da Monti Maria M63001468 - Santoro Emanuele M63001549 - Mondillo Angelica M63001482) ha intrapreso un ruolo cruciale nel miglioramento e nella stabilizzazione del front-end del sistema di gioco educativo ENACTEST. Il nostro contributo vuole avere un impatto diretto sulla qualità e sulla funzionalità della piattaforma, risolvendo problemi chiave di usabilità e introducendo nuove feature per migliorare l'esperienza utente. Il lavoro ha richiesto un'attenta analisi dell'architettura esistente. In particolare, siamo intervenuti sui Task T5, T2-3, T1 e abbiamo utilizzato alcune informazioni provenienti dal T4.
 
