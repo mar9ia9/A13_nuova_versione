@@ -5,7 +5,7 @@ Tutte le informazioni nel dettaglio e la descrizione della campagna di test (tra
 
 ---
 
-Il nostro team (composto da Monti Maria M63001468 - Santoro Emanuele M63001549 - Mondillo Angelica M63001482) ha intrapreso un ruolo cruciale nel miglioramento e nella stabilizzazione del front-end del sistema di gioco educativo ENACTEST. Il nostro contributo vuole avere un impatto diretto sulla qualità e sulla funzionalità della piattaforma, risolvendo problemi chiave di usabilità e introducendo nuove feature per migliorare l'esperienza utente. Il lavoro ha richiesto un'attenta analisi dell'architettura esistente. In particolare, siamo intervenuti sui Task T5, T2-3, T1 e abbiamo utilizzato alcune informazioni provenienti dal T4.
+Il nostro team (composto da Monti Maria M63001468 - Santoro Emanuele M63001549 - Mondillo Angelica M63001482) ha intrapreso un ruolo nel miglioramento e nella stabilizzazione del front-end del sistema di gioco educativo ENACTEST. Il nostro contributo vuole avere un impatto diretto sulla qualità e sulla funzionalità della piattaforma, risolvendo problemi chiave di usabilità e introducendo nuove feature per migliorare l'esperienza utente. Il lavoro ha richiesto un'attenta analisi dell'architettura esistente. In particolare, siamo intervenuti sui Task T5, T2-3, T1 e abbiamo utilizzato alcune informazioni provenienti dal T4.
 
 Implementazioni:
 
